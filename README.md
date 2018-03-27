@@ -5,11 +5,11 @@
 
 # Categories
 1. Studio
-⋅⋅1. Payroll
-⋅⋅⋅⋅1. [Folder] - Description - keywords
-⋅⋅⋅⋅2. [Folder] - Description - keywords
-⋅⋅2. Worker 
-⋅⋅⋅⋅1.[Folder] - Description - keywords
+   1. Payroll
+      1. [Folder] - Description - keywords
+      2. [Folder] - Description - keywords
+   2. Worker
+      1. [Folder] - Description - keywords
 2. DT
-⋅⋅1. [Folder name] - Description - keywords
+   1. [Folder name] - Description - keywords
 
